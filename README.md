@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Vladimir Melekhin and I'm 22 years old. I'm a Junior Unity developer at [BroccoliGames](https://www.broccoligames.ru/).
+- 👋 Hi, my name is Vladimir Melekhin and I'm 22 years old. I'm a Unity/C# developer at [GearGames](https://gear-games.com/).
 
 I used to study at [Ecole 42](https://www.42.fr/) until I switched to making what I love - games.
 
